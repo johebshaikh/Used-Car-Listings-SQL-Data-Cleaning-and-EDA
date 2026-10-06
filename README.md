@@ -14,7 +14,7 @@ MySQL Workbench, SQL (CTEs, window functions, self joins).
 
 ## Approach
 
-The method follows the data cleaning and EDA structure from Alex the Analyst's SQL portfolio project tutorial, applied here to a new dataset.
+The method follows the data cleaning and EDA structure applied here to a new dataset.
 
 ## Cleaning steps
 
